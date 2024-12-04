@@ -1,0 +1,1 @@
+Supporting data and analysis files for "Population characteristics of Flathead Catfish in small Kansas impoundments" submitted to Transactions of the Kansas Academy of Science for publication consideration.
